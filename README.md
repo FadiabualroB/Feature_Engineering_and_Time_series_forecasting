@@ -9,5 +9,4 @@ https://www.kaggle.com/paulbrabban/daily-minimum-temperatures-in-melbourne
 
 - Apply some feature extractions that you have learned in article 1.
 
-- 
 - Use Facebook fbprophet model to forecast the temperature.
